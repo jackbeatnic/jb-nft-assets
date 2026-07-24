@@ -1,21 +1,32 @@
 # jb-nft-assets
 
-Metadata + media for Jack Beatnic NFT contracts.
+**Metadata + media for Jack Beatnic NFT contracts.**  
+Not the gallery app — gallery can move to Cloudflare; this repo stays until IPFS/Arweave migration.
 
-**Not the gallery app** — gallery can move to Cloudflare; this repo stays as token URI host until IPFS/Arweave migration.
+## Live base (GitHub Pages)
 
-## URLs (GitHub Pages)
+https://jackbeatnic.github.io/jb-nft-assets/
 
-- Meta NJ vol.2: `https://jackbeatnic.github.io/jb-nft-assets/meta/avalanche/nature-jam-2/{id}`
-- Media: `https://jackbeatnic.github.io/jb-nft-assets/media/nature-jam-2/{id}.jpg`
+## Layout (read this)
 
-On-chain `baseURI` should match the meta pattern with `{id}`.
+→ **[STRUCTURE.md](./STRUCTURE.md)** — NS / FS / NJ × avalanche / base / polygon, shared JPG, parties.
 
-## Layout
-
-```
-meta/{chain}/{collection}/{token_id}   # JSON, no extension
-media/{collection_or_series}/{id}.jpg  # shared across chains when same art
+```text
+media/{series}/{art_id}.jpg
+meta/{chain}/{collection}/{token_id}
 ```
 
-Triplets (AVAX/Base/Polygon): **one** media file, **three** meta files pointing at the same `image` URL.
+**Legacy NJ vol.2 (do not rename):**  
+`meta/avalanche/nature-jam-2/` + `media/nature-jam-2/`
+
+## Quick rules
+
+1. **One artwork → one media file** (even if minted on 3 chains).  
+2. **One on-chain token → one meta file** under the right chain + collection.  
+3. Meta `"image"` always points at `media/…`.  
+4. Never store NFT media inside the gallery website repo.
+
+## Arweave later
+
+Same folder tree → upload → update each contract `baseURI` once.  
+See monorepo `mintowanie/NJ_VOL2_INVENTORY.md` and `HOSTING_META_MEDIA.md`.
