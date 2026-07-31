@@ -1,0 +1,4 @@
+# NFT metadata host only — not a public gallery.
+# OpenSea / wallets may fetch URLs; search engines should not index this tree.
+User-agent: *
+Disallow: /
