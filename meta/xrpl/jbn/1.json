@@ -1,7 +1,8 @@
 {
+  "nftType": "art.v0",
   "name": "JBN #1 X",
-  "description": "JB Nature turns personal photos and memories into playful AI scenes of place and mood—shaped by free play of imagination.\n\n(c) Jack Beatnic 2025 | XRPL Edition | JB AI Nature\nhttps://jackbeatnic.github.io",
-  "image": "https://cdn.jsdelivr.net/gh/jackbeatnic/jb-nft-assets@main/media/xrpl/jbn/1.jpg",
+  "description": "JB Nature turns personal photos and memories into playful AI scenes of place and mood—shaped by free play of imagination.\n\n(c) Jack Beatnic 2025 | XRPL Edition | JB AI Nature | Edition 1/3000\nhttps://jackbeatnic.github.io",
+  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/1.jpg",
   "external_url": "https://jackbeatnic.github.io",
   "collection": {
     "name": "JB AI Nature",
@@ -14,18 +15,27 @@
     },
     {
       "trait_type": "Edition",
-      "value": "Semi-exclusive"
+      "value": "1/3000"
     },
     {
-      "trait_type": "Supply",
+      "trait_type": "Edition Number",
+      "value": "1"
+    },
+    {
+      "trait_type": "Edition Size",
       "value": "3000"
     },
     {
       "trait_type": "Chain",
       "value": "XRPL"
+    },
+    {
+      "trait_type": "Creator Fee",
+      "value": "9%"
     }
   ],
-  "supply": 3000,
+  "edition_number": 1,
   "edition_size": 3000,
-  "seller_fee_basis_points": 0
+  "supply": 3000,
+  "seller_fee_basis_points": 900
 }
