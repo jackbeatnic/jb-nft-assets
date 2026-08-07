@@ -11,6 +11,7 @@
   "edition_number": 1,
   "edition_total": 3000,
   "supply": 3000,
+  "editions": 3000,
   "attributes": [
     {
       "trait_type": "Series",
@@ -23,6 +24,10 @@
     {
       "trait_type": "Copy",
       "value": "1/3000"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 3000"
     },
     {
       "trait_type": "Chain",
