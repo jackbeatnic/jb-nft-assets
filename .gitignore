@@ -1,0 +1,4 @@
+# Presentation cache lives in jbg-present, never here.
+site/
+*.thumb.webp
+*.view.webp
