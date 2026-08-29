@@ -5,7 +5,7 @@
   "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/1.jpg",
   "external_url": "https://jackbeatnic.github.io",
   "collection": {
-    "name": "JB AI Nature",
+    "name": "Jack Beatnic",
     "family": "Jack Beatnic"
   },
   "edition_number": 1,
@@ -16,6 +16,10 @@
     {
       "trait_type": "Series",
       "value": "JBN"
+    },
+    {
+      "trait_type": "Line",
+      "value": "AI Nature"
     },
     {
       "trait_type": "Supply",
