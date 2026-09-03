@@ -1,0 +1,58 @@
+{
+  "nftType": "art.v0",
+  "name": "NS #23 S",
+  "description": "Nature Stories creates surreal scenes of landscape and quiet wonder—shaped by observation, artworks, and free play of imagination.\n\nLimited to 10000 pieces: 5000 on TradePort and 5000 studio-signed at https://jackbeatnic.github.io.\n(c) Jack Beatnic 2026 | Sui Edition | Nature Stories | 5002/10000 | studio-signed\nhttps://jackbeatnic.github.io",
+  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/sui/ns/23.jpg",
+  "external_url": "https://jackbeatnic.github.io",
+  "collection": {
+    "name": "Nature Stories",
+    "family": "Jack Beatnic"
+  },
+  "edition_number": 5002,
+  "edition_total": 10000,
+  "supply": 10000,
+  "editions": 10000,
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "NS"
+    },
+    {
+      "trait_type": "Line",
+      "value": "Nature Stories"
+    },
+    {
+      "trait_type": "Channel",
+      "value": "Studio"
+    },
+    {
+      "trait_type": "Studio Signed",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "10000"
+    },
+    {
+      "trait_type": "TradePort cap",
+      "value": "5000"
+    },
+    {
+      "trait_type": "Copy",
+      "value": "5002/10000"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "5002 of 10000"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "SUI"
+    },
+    {
+      "trait_type": "Creator Fee",
+      "value": "9%"
+    }
+  ],
+  "seller_fee_basis_points": 900
+}
