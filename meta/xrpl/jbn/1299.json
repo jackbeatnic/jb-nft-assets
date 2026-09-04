@@ -1,7 +1,7 @@
 {
   "nftType": "art.v0",
   "name": "JBH #1 X",
-  "description": "This is a handmade drawing, scanned from paper. No AI was used.\n\n(c) Jack Beatnic 2026 | XRPL Edition | JB AI Nature | 1/1\nhttps://jackbeatnic.github.io",
+  "description": "This is a handmade drawing, scanned from paper. No AI was used.\n\n(c) Jack Beatnic 2026 | XRPL Edition | Handmade | 1/1\nhttps://jackbeatnic.github.io",
   "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/1299.jpg",
   "external_url": "https://jackbeatnic.github.io",
   "collection": {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Line",
-      "value": "AI Handmade"
+      "value": "Handmade"
     },
     {
       "trait_type": "Supply",
