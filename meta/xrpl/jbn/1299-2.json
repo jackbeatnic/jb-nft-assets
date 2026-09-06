@@ -1,0 +1,46 @@
+{
+  "nftType": "art.v0",
+  "name": "JBH #1 X",
+  "description": "JB Nature blends handmade work with AI — drawings and photos finished in the machine, or AI prints brought back by paint and scan.\n\n(c) Jack Beatnic 2026 | XRPL Edition | Handmade | 2/1\nhttps://jackbeatnic.github.io",
+  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/1299.jpg",
+  "external_url": "https://jackbeatnic.github.io",
+  "collection": {
+    "name": "Jack Beatnic",
+    "family": "Jack Beatnic"
+  },
+  "edition_number": 2,
+  "edition_total": 1,
+  "supply": 1,
+  "editions": 1,
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "JBH"
+    },
+    {
+      "trait_type": "Line",
+      "value": "Handmade"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "1"
+    },
+    {
+      "trait_type": "Copy",
+      "value": "2/1"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "2 of 1"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "XRPL"
+    },
+    {
+      "trait_type": "Creator Fee",
+      "value": "9%"
+    }
+  ],
+  "seller_fee_basis_points": 900
+}
