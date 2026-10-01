@@ -33,13 +33,10 @@ meta/{chain}/{collection}/{token_id}
 **Legacy NJ vol.2 (do not rename — already on-chain):**  
 `meta/avalanche/nature-jam-2/` + `media/nature-jam-2/`
 
-## Mint pipeline (monorepo)
+## Mint pipeline (local)
 
-```text
-~/jb_nft/mintowanie/mint_gh_batch.py   # universal NS/FS/NJ
-~/jb_nft/mintowanie/INSTRUKCJA.txt
-~/jb_nft/mintowanie/lib_assets_paths.py
-```
+The mint pipeline lives in a separate, private local workspace
+(universal NS/FS/NJ batch minter, asset path helpers, and its guide).
 
 ## Rules
 
@@ -51,4 +48,4 @@ meta/{chain}/{collection}/{token_id}
 ## Arweave / IPFS later
 
 Same tree → upload → one `baseURI` update per contract.  
-See monorepo `mintowanie/HOSTING_META_MEDIA.md`.
+See the hosting notes in the local mint pipeline.
