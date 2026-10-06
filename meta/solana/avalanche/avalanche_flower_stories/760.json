@@ -1,7 +1,7 @@
 {
- "name": "FS #777 · Avalanche",
+ "name": "FS #777",
  "symbol": "JBG",
- "description": "FS #777 by Jack Beatnic. Flower Stories series; original in Flower Stories on Avalanche. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "FS #777 by Jack Beatnic. Flower Stories series; original in Flower Stories on Avalanche. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafkreig2jsgdr6p5p54bgyiyflmrqmtqydcqdlvbc7e3ebmeq2doslkqpy",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "760"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

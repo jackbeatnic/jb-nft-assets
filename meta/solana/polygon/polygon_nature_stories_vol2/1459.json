@@ -1,7 +1,7 @@
 {
- "name": "NS #2853 · Polygon",
+ "name": "NS #2853",
  "symbol": "JBG",
- "description": "NS #2853 by Jack Beatnic. Nature Stories series; original in Nature Stories vol. 2 on Polygon. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "NS #2853 by Jack Beatnic. Nature Stories series; original in Nature Stories vol. 2 on Polygon. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeifirqa4qmu6c6m6vk2rxoqsbfhwy4zcv62db2v45bgt4ihlrse67y",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "1459"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

@@ -1,7 +1,7 @@
 {
- "name": "NS #4105 · Avalanche",
+ "name": "NS #4105",
  "symbol": "JBG",
- "description": "NS #4105 by Jack Beatnic. Nature Stories series; original in Nature Stories on Avalanche. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "NS #4105 by Jack Beatnic. Nature Stories series; original in Nature Stories on Avalanche. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/nature_stories/1829.jpg",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "1829"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

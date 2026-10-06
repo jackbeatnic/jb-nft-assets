@@ -1,7 +1,7 @@
 {
- "name": "Not Ideal Love · Tezos",
+ "name": "Not Ideal Love",
  "symbol": "JBG",
- "description": "Not Ideal Love by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "Not Ideal Love by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/QmVwMacAzZ5PYtATu2QGbxt8pqJncSCEDHMxQeiJ8CNdCG",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "63"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

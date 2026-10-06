@@ -1,7 +1,7 @@
 {
- "name": "FS #4019 · Polygon",
+ "name": "FS #4019 P",
  "symbol": "JBG",
- "description": "FS #4019 by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 2 on Polygon. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "FS #4019 P by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 2 on Polygon. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeiaqppecj5ej5xgsfje45scnn2cbmwmbk4zfkkmfv3awo7unkevcsq",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "1932"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

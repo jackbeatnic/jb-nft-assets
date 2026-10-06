@@ -1,7 +1,7 @@
 {
- "name": "NJ2 #874 · Avalanche",
+ "name": "NJ2 #874",
  "symbol": "JBG",
- "description": "NJ2 #874 by Jack Beatnic. Nature Jam vol. 2 series; original in Nature Jam vol. 2 on Avalanche. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "NJ2 #874 by Jack Beatnic. Nature Jam vol. 2 series; original in Nature Jam vol. 2 on Avalanche. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/nature-jam-2/88.jpg",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "88"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

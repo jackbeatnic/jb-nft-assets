@@ -1,7 +1,7 @@
 {
- "name": "Snowy Day #024 · Tezos",
+ "name": "Snowy Day #024",
  "symbol": "JBG",
- "description": "Snowy Day #024 by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "Snowy Day #024 by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/QmX8A2BcjSMQQVccg6ocMuCZhCj6rRPWPpyY2N6kFgRjAk",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "5"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

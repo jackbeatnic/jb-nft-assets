@@ -1,7 +1,7 @@
 {
- "name": "Monochrome Nature #108 · Tezos",
+ "name": "Monochrome Nature #108",
  "symbol": "JBG",
- "description": "Monochrome Nature #108 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "Monochrome Nature #108 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/QmQh1NNuhyeh4HDUVpbiXVEK23DPvfEuTr7Bm2yFXHvYD1",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "61"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

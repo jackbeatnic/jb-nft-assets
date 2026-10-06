@@ -1,7 +1,7 @@
 {
- "name": "Foxglove's Feminine Enchantment #001 · Tezos",
+ "name": "Foxglove's Feminine Enchantment #001",
  "symbol": "JBG",
- "description": "Foxglove's Feminine Enchantment #001 by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "Foxglove's Feminine Enchantment #001 by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/QmTV8QFp6hM3y9FZdN58vC6R46ZPzEUioJyJ5t8u4ETbf1",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "32"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

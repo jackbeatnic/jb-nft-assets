@@ -1,7 +1,7 @@
 {
- "name": "FS #3043 · Polygon",
+ "name": "FS #3043",
  "symbol": "JBG",
- "description": "FS #3043 by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 2 on Polygon. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "FS #3043 by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 2 on Polygon. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeidfuo2ccvmfyux2rizqy5azjdoi7nasvbikb55fgw6k5x6rr4wp2q",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "1250"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

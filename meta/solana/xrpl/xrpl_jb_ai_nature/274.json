@@ -1,7 +1,7 @@
 {
- "name": "NS JBN #274 · XRPL",
+ "name": "JBN #274 X",
  "symbol": "JBG",
- "description": "NS JBN #274 by Jack Beatnic. Nature Stories series; original in JB AI Nature (JBN) on XRPL. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "JBN #274 X by Jack Beatnic. Nature Stories series; original in JB AI Nature (JBN) on XRPL. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/274.jpg",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "274"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

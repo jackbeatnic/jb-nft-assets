@@ -1,7 +1,7 @@
 {
- "name": "NS #3298 · Base",
+ "name": "NS #3298",
  "symbol": "JBG",
- "description": "NS #3298 by Jack Beatnic. Nature Stories series; original in Nature Stories vol. 3 on Base. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "NS #3298 by Jack Beatnic. Nature Stories series; original in Nature Stories vol. 3 on Base. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeicklcqryfrakjehh4l2cfc4nvcjwpt37mbkagjccgoq325zu7ucuu",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "516"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

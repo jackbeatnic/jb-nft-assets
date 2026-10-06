@@ -1,7 +1,7 @@
 {
- "name": "BAI2 #1079 · Base",
+ "name": "BAI2 #1079",
  "symbol": "JBG",
- "description": "BAI2 #1079 by Jack Beatnic. JB Based AI vol. 2 series; original in JB Based AI vol. 2 on Base. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "BAI2 #1079 by Jack Beatnic. JB Based AI vol. 2 series; original in JB Based AI vol. 2 on Base. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeigzywtrk6absa27p4hziyudzw62lfq3vaf4jpsbg7exzeckl4nl7a",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "172"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],

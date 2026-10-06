@@ -1,7 +1,7 @@
 {
- "name": "FS #4957 · Base",
+ "name": "FS #4957 B",
  "symbol": "JBG",
- "description": "FS #4957 by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 3 on Base. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "description": "FS #4957 B by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 3 on Base. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeic6fl7fpo5vb4wsi35segsp6qyqglnuxvbaucub5tw3x2nvyvu7rq",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -30,7 +30,7 @@
    "value": "289"
   },
   {
-   "trait_type": "Solana copies cap",
+   "trait_type": "Editions",
    "value": 10000
   }
  ],
