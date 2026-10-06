@@ -1,16 +1,24 @@
 {
- "name": "JBN #339 X (Solana Edition)",
+ "name": "NS JBN #339 · XRPL",
  "symbol": "JBG",
- "description": "JBN #339 X by Jack Beatnic, from JB AI Nature on XRPL. Solana Edition of the original work, minted on demand from JB Gallery. Up to 3000 Solana copies.",
+ "description": "NS JBN #339 by Jack Beatnic. Nature Stories series; original in JB AI Nature (JBN) on XRPL. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/339.jpg",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
   {
    "trait_type": "Origin chain",
    "value": "XRPL"
   },
   {
    "trait_type": "Origin collection",
+   "value": "JB AI Nature (JBN)"
+  },
+  {
+   "trait_type": "Origin collection ID",
    "value": "xrpl_jb_ai_nature"
   },
   {
@@ -22,12 +30,8 @@
    "value": "339"
   },
   {
-   "trait_type": "Series",
-   "value": "JB AI Nature"
-  },
-  {
-   "trait_type": "Solana edition cap",
-   "value": 3000
+   "trait_type": "Solana copies cap",
+   "value": 10000
   }
  ],
  "properties": {
@@ -42,8 +46,7 @@
    "chain": "xrpl",
    "collection_id": "xrpl_jb_ai_nature",
    "contract": "rK4o7s2QDXPYWqB2jQRhH3ew9E8KeKYuxn",
-   "token_id": "339",
-   "url": ""
+   "token_id": "339"
   }
  }
 }

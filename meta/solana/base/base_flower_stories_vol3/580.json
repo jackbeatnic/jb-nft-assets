@@ -1,0 +1,52 @@
+{
+ "name": "FS #5404 · Base",
+ "symbol": "JBG",
+ "description": "FS #5404 by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 3 on Base. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://ipfs.io/ipfs/bafybeidwyx64rhf5rqx7x5qzm5cztlpasqy2o4qiqjftap7unakbpfcr2e",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Flower Stories"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Base"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Flower Stories vol. 3"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "base_flower_stories_vol3"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "0xca201a1654acd30580c0fbab4cac88bf0df65e7d"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "580"
+  },
+  {
+   "trait_type": "Solana copies cap",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://ipfs.io/ipfs/bafybeidwyx64rhf5rqx7x5qzm5cztlpasqy2o4qiqjftap7unakbpfcr2e",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "base",
+   "collection_id": "base_flower_stories_vol3",
+   "contract": "0xca201a1654acd30580c0fbab4cac88bf0df65e7d",
+   "token_id": "580"
+  }
+ }
+}

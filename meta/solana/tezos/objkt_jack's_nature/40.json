@@ -1,0 +1,52 @@
+{
+ "name": "White Tulip Elegance · Tezos",
+ "symbol": "JBG",
+ "description": "White Tulip Elegance by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://ipfs.io/ipfs/Qma9FGpM3diMCPNB6YuLBzYnvjWa12tNU7NjFLY9KWVW4P",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Jack's nature"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Tezos"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Jack's nature"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "objkt_jack's_nature"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "KT1S6f8UgoaHAbtrQsuXhDmrZfpkGLfyYvXJ"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "40"
+  },
+  {
+   "trait_type": "Solana copies cap",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://ipfs.io/ipfs/Qma9FGpM3diMCPNB6YuLBzYnvjWa12tNU7NjFLY9KWVW4P",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "tezos",
+   "collection_id": "objkt_jack's_nature",
+   "contract": "KT1S6f8UgoaHAbtrQsuXhDmrZfpkGLfyYvXJ",
+   "token_id": "40"
+  }
+ }
+}

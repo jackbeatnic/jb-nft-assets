@@ -1,0 +1,52 @@
+{
+ "name": "Monochrome Diary #124 · Tezos",
+ "symbol": "JBG",
+ "description": "Monochrome Diary #124 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://ipfs.io/ipfs/bafkreifu5ztvv3m65g2fbbv6exrdx2c4uiqldz4ouclswyvqgtwo72vuvi",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Jack Beatnic Open Editions"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Tezos"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Jack Beatnic Open Editions"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "objkt_jack_beatnic_open_editions"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "KT1G4huupTRYUVo2WkXcx89xuGVaXgKosnwG"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "75"
+  },
+  {
+   "trait_type": "Solana copies cap",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://ipfs.io/ipfs/bafkreifu5ztvv3m65g2fbbv6exrdx2c4uiqldz4ouclswyvqgtwo72vuvi",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "tezos",
+   "collection_id": "objkt_jack_beatnic_open_editions",
+   "contract": "KT1G4huupTRYUVo2WkXcx89xuGVaXgKosnwG",
+   "token_id": "75"
+  }
+ }
+}

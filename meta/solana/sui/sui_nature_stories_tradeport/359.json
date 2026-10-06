@@ -1,16 +1,24 @@
 {
- "name": "NS #359 S (Solana Edition)",
+ "name": "NS #359 · Sui",
  "symbol": "JBG",
- "description": "NS #359 S by Jack Beatnic, from Nature Stories on Sui. Solana Edition of the original work, minted on demand from JB Gallery. Up to 3000 Solana copies.",
+ "description": "NS #359 by Jack Beatnic. Nature Stories series; original in Nature Stories (Sui) on Sui. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
  "image": "https://jackbeatnic.github.io/jb-nft-assets/media/sui/ns/359.jpg",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
   {
    "trait_type": "Origin chain",
    "value": "Sui"
   },
   {
    "trait_type": "Origin collection",
+   "value": "Nature Stories (Sui)"
+  },
+  {
+   "trait_type": "Origin collection ID",
    "value": "sui_nature_stories_tradeport"
   },
   {
@@ -22,12 +30,8 @@
    "value": "359"
   },
   {
-   "trait_type": "Series",
-   "value": "Nature Stories"
-  },
-  {
-   "trait_type": "Solana edition cap",
-   "value": 3000
+   "trait_type": "Solana copies cap",
+   "value": 10000
   }
  ],
  "properties": {
@@ -42,8 +46,7 @@
    "chain": "sui",
    "collection_id": "sui_nature_stories_tradeport",
    "contract": "7fce878a-8ae8-4ffb-a12d-53209412876e",
-   "token_id": "359",
-   "url": ""
+   "token_id": "359"
   }
  }
 }

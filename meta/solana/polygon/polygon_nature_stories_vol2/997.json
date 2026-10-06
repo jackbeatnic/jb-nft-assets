@@ -1,0 +1,52 @@
+{
+ "name": "NS #2124 · Polygon",
+ "symbol": "JBG",
+ "description": "NS #2124 by Jack Beatnic. Nature Stories series; original in Nature Stories vol. 2 on Polygon. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://ipfs.io/ipfs/bafybeigapkrkjqqaq3fmdnsrebsu4oig5xbrzqfepi4kixcl5d2idqumqi",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Polygon"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Nature Stories vol. 2"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "polygon_nature_stories_vol2"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "0xa0d6ff855d88cc5587f30de654966e0f33b3b30f"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "997"
+  },
+  {
+   "trait_type": "Solana copies cap",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://ipfs.io/ipfs/bafybeigapkrkjqqaq3fmdnsrebsu4oig5xbrzqfepi4kixcl5d2idqumqi",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "polygon",
+   "collection_id": "polygon_nature_stories_vol2",
+   "contract": "0xa0d6ff855d88cc5587f30de654966e0f33b3b30f",
+   "token_id": "997"
+  }
+ }
+}

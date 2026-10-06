@@ -1,0 +1,52 @@
+{
+ "name": "NS #438 · Base",
+ "symbol": "JBG",
+ "description": "NS #438 by Jack Beatnic. Nature Stories series; original in Nature Stories vol. 3 on Base. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://ipfs.io/ipfs/bafybeiht62ewel5kr2u3bhb5qzw7lxms2dvz47dvusz2paqtpi35nr4yni",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Base"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Nature Stories vol. 3"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "base_nature_stories_vol3"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "0x642073e93508606b94d0732324411135c8bc44c3"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "97"
+  },
+  {
+   "trait_type": "Solana copies cap",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://ipfs.io/ipfs/bafybeiht62ewel5kr2u3bhb5qzw7lxms2dvz47dvusz2paqtpi35nr4yni",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "base",
+   "collection_id": "base_nature_stories_vol3",
+   "contract": "0x642073e93508606b94d0732324411135c8bc44c3",
+   "token_id": "97"
+  }
+ }
+}

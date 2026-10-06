@@ -1,0 +1,52 @@
+{
+ "name": "FS #906 · Avalanche",
+ "symbol": "JBG",
+ "description": "FS #906 by Jack Beatnic. Flower Stories series; original in Flower Stories on Avalanche. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://ipfs.io/ipfs/bafkreigegcrt3uak2pfzhfsysn6m4lpx6gqc52zmjkhhlyu7c4koo5rxp4",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Flower Stories"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Avalanche"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Flower Stories"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "avalanche_flower_stories"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "0x50866c1025f48e95de820482cde89c6c9082d1d6"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "861"
+  },
+  {
+   "trait_type": "Solana copies cap",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://ipfs.io/ipfs/bafkreigegcrt3uak2pfzhfsysn6m4lpx6gqc52zmjkhhlyu7c4koo5rxp4",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "avalanche",
+   "collection_id": "avalanche_flower_stories",
+   "contract": "0x50866c1025f48e95de820482cde89c6c9082d1d6",
+   "token_id": "861"
+  }
+ }
+}

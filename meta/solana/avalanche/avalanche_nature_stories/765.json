@@ -1,16 +1,24 @@
 {
- "name": "NS #1549 (Solana Edition)",
+ "name": "NS #1549 · Avalanche",
  "symbol": "JBG",
- "description": "NS #1549 by Jack Beatnic, from Nature Stories on Avalanche. Solana Edition of the original work, minted on demand from JB Gallery. Up to 7000 Solana copies.",
- "image": "https://jackbeatnic.github.io/jbg-present/avalanche_nature_stories/765.view.webp",
+ "description": "NS #1549 by Jack Beatnic. Nature Stories series; original in Nature Stories on Avalanche. Solana copy of the original work, minted on demand from JB Gallery. Up to 10000 Solana copies.",
+ "image": "https://jackbeatnic.github.io/jb-nft-assets/media/nature_stories/765.jpg",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
   {
    "trait_type": "Origin chain",
    "value": "Avalanche"
   },
   {
    "trait_type": "Origin collection",
+   "value": "Nature Stories"
+  },
+  {
+   "trait_type": "Origin collection ID",
    "value": "avalanche_nature_stories"
   },
   {
@@ -22,28 +30,23 @@
    "value": "765"
   },
   {
-   "trait_type": "Series",
-   "value": "Nature Stories"
-  },
-  {
-   "trait_type": "Solana edition cap",
-   "value": 7000
+   "trait_type": "Solana copies cap",
+   "value": 10000
   }
  ],
  "properties": {
   "category": "image",
   "files": [
    {
-    "uri": "https://jackbeatnic.github.io/jbg-present/avalanche_nature_stories/765.view.webp",
-    "type": "image/webp"
+    "uri": "https://jackbeatnic.github.io/jb-nft-assets/media/nature_stories/765.jpg",
+    "type": "image/jpeg"
    }
   ],
   "origin": {
    "chain": "avalanche",
    "collection_id": "avalanche_nature_stories",
    "contract": "0x87e72dc1fda7f5a1f0846840b33888cc4b8f4a4d",
-   "token_id": "765",
-   "url": "https://opensea.io/assets/avalanche/0x87e72dc1fda7f5a1f0846840b33888cc4b8f4a4d/765"
+   "token_id": "765"
   }
  }
 }
