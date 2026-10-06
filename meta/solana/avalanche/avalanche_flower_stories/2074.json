@@ -1,7 +1,7 @@
 {
  "name": "FS #3271 SOL",
  "symbol": "JBG",
- "description": "FS #3271 by Jack Beatnic. Flower Stories series; original in Flower Stories on Avalanche. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
+ "description": "FS #3271 by Jack Beatnic. Flower Stories series; original in Flower Stories on Avalanche. Solana edition of the original work, minted on demand from JB Gallery. Up to 5000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeiarfwy47552y46whec5zmgnv5elhdpq6pxczfk27gemorlt5sr5wu",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -31,7 +31,7 @@
   },
   {
    "trait_type": "Editions",
-   "value": 10000
+   "value": 5000
   }
  ],
  "properties": {

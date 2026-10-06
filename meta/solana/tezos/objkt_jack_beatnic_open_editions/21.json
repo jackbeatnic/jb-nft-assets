@@ -1,7 +1,7 @@
 {
  "name": "Street Play #004 SOL",
  "symbol": "JBG",
- "description": "Street Play #004 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
+ "description": "Street Play #004 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 5000 Solana editions.",
  "image": "https://ipfs.io/ipfs/QmXoAEQhS63izsxqdqW9zE8iybtJjC7xwG1Q3qpuZBLKW8",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -31,7 +31,7 @@
   },
   {
    "trait_type": "Editions",
-   "value": 10000
+   "value": 5000
   }
  ],
  "properties": {

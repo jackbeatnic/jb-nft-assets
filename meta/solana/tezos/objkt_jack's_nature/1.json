@@ -1,7 +1,7 @@
 {
  "name": "Autumn Garden #003 SOL",
  "symbol": "JBG",
- "description": "Autumn Garden #003 by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
+ "description": "Autumn Garden #003 by Jack Beatnic. Jack's nature series; original in Jack's nature on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 5000 Solana editions.",
  "image": "https://ipfs.io/ipfs/QmZxj6FiPTcS86q6Fns2tcBTbq9uG4tFa7SZV3SN43zgxb",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -31,7 +31,7 @@
   },
   {
    "trait_type": "Editions",
-   "value": 10000
+   "value": 5000
   }
  ],
  "properties": {

@@ -1,7 +1,7 @@
 {
  "name": "Fade Diary #0006 SOL",
  "symbol": "JBG",
- "description": "Fade Diary #0006 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
+ "description": "Fade Diary #0006 by Jack Beatnic. Jack Beatnic Open Editions series; original in Jack Beatnic Open Editions on Tezos. Solana edition of the original work, minted on demand from JB Gallery. Up to 5000 Solana editions.",
  "image": "https://ipfs.io/ipfs/bafybeifhz5odiueuoys7veuoibbe3qlwlkc2nntzkioz6c7jc6yjsrizbu",
  "external_url": "https://jackbeatnic.github.io/",
  "attributes": [
@@ -31,7 +31,7 @@
   },
   {
    "trait_type": "Editions",
-   "value": 10000
+   "value": 5000
   }
  ],
  "properties": {
