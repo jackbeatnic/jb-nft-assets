@@ -1,0 +1,49 @@
+{
+ "name": "JBN #1180 X (Solana Edition)",
+ "symbol": "JBG",
+ "description": "JBN #1180 X by Jack Beatnic, from JB AI Nature on XRPL. Solana Edition of the original work, minted on demand from JB Gallery. Up to 3000 Solana copies.",
+ "image": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/1180.jpg",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Origin chain",
+   "value": "XRPL"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "xrpl_jb_ai_nature"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "rK4o7s2QDXPYWqB2jQRhH3ew9E8KeKYuxn"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "1180"
+  },
+  {
+   "trait_type": "Series",
+   "value": "JB AI Nature"
+  },
+  {
+   "trait_type": "Solana edition cap",
+   "value": 3000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://jackbeatnic.github.io/jb-nft-assets/media/xrpl/jbn/1180.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "xrpl",
+   "collection_id": "xrpl_jb_ai_nature",
+   "contract": "rK4o7s2QDXPYWqB2jQRhH3ew9E8KeKYuxn",
+   "token_id": "1180",
+   "url": ""
+  }
+ }
+}

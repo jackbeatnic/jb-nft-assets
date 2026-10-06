@@ -1,0 +1,49 @@
+{
+ "name": "NS #1607 (Solana Edition)",
+ "symbol": "JBG",
+ "description": "NS #1607 by Jack Beatnic, from Nature Stories on Avalanche. Solana Edition of the original work, minted on demand from JB Gallery. Up to 7000 Solana copies.",
+ "image": "https://jackbeatnic.github.io/jbg-present/avalanche_nature_stories/825.view.webp",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Origin chain",
+   "value": "Avalanche"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "avalanche_nature_stories"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "0x87e72dc1fda7f5a1f0846840b33888cc4b8f4a4d"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "825"
+  },
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
+  {
+   "trait_type": "Solana edition cap",
+   "value": 7000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://jackbeatnic.github.io/jbg-present/avalanche_nature_stories/825.view.webp",
+    "type": "image/webp"
+   }
+  ],
+  "origin": {
+   "chain": "avalanche",
+   "collection_id": "avalanche_nature_stories",
+   "contract": "0x87e72dc1fda7f5a1f0846840b33888cc4b8f4a4d",
+   "token_id": "825",
+   "url": "https://opensea.io/assets/avalanche/0x87e72dc1fda7f5a1f0846840b33888cc4b8f4a4d/825"
+  }
+ }
+}

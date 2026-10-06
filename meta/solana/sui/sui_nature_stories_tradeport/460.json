@@ -1,0 +1,49 @@
+{
+ "name": "NS #460 S (Solana Edition)",
+ "symbol": "JBG",
+ "description": "NS #460 S by Jack Beatnic, from Nature Stories on Sui. Solana Edition of the original work, minted on demand from JB Gallery. Up to 3000 Solana copies.",
+ "image": "https://jackbeatnic.github.io/jb-nft-assets/media/sui/ns/460.jpg",
+ "external_url": "https://jackbeatnic.github.io/",
+ "attributes": [
+  {
+   "trait_type": "Origin chain",
+   "value": "Sui"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "sui_nature_stories_tradeport"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "7fce878a-8ae8-4ffb-a12d-53209412876e"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "460"
+  },
+  {
+   "trait_type": "Series",
+   "value": "Nature Stories"
+  },
+  {
+   "trait_type": "Solana edition cap",
+   "value": 3000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://jackbeatnic.github.io/jb-nft-assets/media/sui/ns/460.jpg",
+    "type": "image/jpeg"
+   }
+  ],
+  "origin": {
+   "chain": "sui",
+   "collection_id": "sui_nature_stories_tradeport",
+   "contract": "7fce878a-8ae8-4ffb-a12d-53209412876e",
+   "token_id": "460",
+   "url": ""
+  }
+ }
+}
