@@ -49,3 +49,8 @@ The mint pipeline lives in a separate, private local workspace
 
 Same tree → upload → one `baseURI` update per contract.  
 See the hosting notes in the local mint pipeline.
+
+## Rights
+
+Proprietary — Jack Beatnic. All rights reserved. Not open source. Not public domain.
+Machine-assisted files do not place the works, the selection, or the commercial design in the public domain.
