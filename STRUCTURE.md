@@ -149,7 +149,7 @@ Inventory details are kept in the local mint pipeline (NJ vol.2 inventory).
 {
   "name": "JB NJ #1056",
   "description": "…\nAvalanche Edition | Jack Beatnic 2026",
-  "external_url": "https://jackbeatnic.github.io",
+  "external_url": "https://jackbeatnic.art",
   "image": "https://jackbeatnic.github.io/jb-nft-assets/media/nature-jam-2/270.jpg"
 }
 ```
