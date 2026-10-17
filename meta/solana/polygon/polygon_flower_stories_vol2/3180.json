@@ -1,0 +1,46 @@
+{
+ "name": "FS #6446 P SOL",
+ "symbol": "JBG",
+ "description": "FS #6446 P by Jack Beatnic. Flower Stories series; original in Flower Stories vol. 2 on Polygon. Solana edition of the original work, minted on demand from JB Gallery. Up to 10000 Solana editions.",
+ "image": "https://jackbeatnic.github.io/jb-nft-assets/media/flower_stories/6446.jpg",
+ "external_url": "https://jackbeatnic.art/",
+ "attributes": [
+  {
+   "trait_type": "Series",
+   "value": "Flower Stories"
+  },
+  {
+   "trait_type": "Origin chain",
+   "value": "Polygon"
+  },
+  {
+   "trait_type": "Origin collection",
+   "value": "Flower Stories vol. 2"
+  },
+  {
+   "trait_type": "Origin collection ID",
+   "value": "polygon_flower_stories_vol2"
+  },
+  {
+   "trait_type": "Origin contract",
+   "value": "0x515ac12338a428df618f4c7c2720754e35d612b8"
+  },
+  {
+   "trait_type": "Origin token ID",
+   "value": "3180"
+  },
+  {
+   "trait_type": "Editions",
+   "value": 10000
+  }
+ ],
+ "properties": {
+  "category": "image",
+  "files": [
+   {
+    "uri": "https://jackbeatnic.github.io/jb-nft-assets/media/flower_stories/6446.jpg",
+    "type": "image/png"
+   }
+  ]
+ }
+}
