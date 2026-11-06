@@ -21,6 +21,10 @@ without breaking mint URIs.
 
 https://jackbeatnic.github.io/jb-nft-assets/
 
+Pages publishes the whole `main` branch. A new batch is not visible until the
+`pages build and deployment` run for that commit is green (about 5 minutes).
+See [docs/pages-deploy.md](./docs/pages-deploy.md).
+
 ## Layout
 
 → **[STRUCTURE.md](./STRUCTURE.md)** — NS / FS / NJ × avalanche / base / polygon.
